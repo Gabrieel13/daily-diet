@@ -1,6 +1,6 @@
 # Daily Diet
 
-Todo mundo já tentou fazer dieta pelo menos uma vez. E todo mundo sabe como é difícil manter o controle sem perder a cabeça com planilhas ou anotações no papel. O Daily Diet nasceu exatamente pra resolver isso — de forma simples, visual e direto ao ponto.
+Todo mundo já tentou fazer dieta pelo menos uma vez. E todo mundo sabe como é difícil manter o controle sem perder a cabeça com planilhas ou anotações no papel. O Daily Diet nasceu exatamente pra resolver isso de forma simples, visual e direto ao ponto.
 
 Com ele você registra o que comeu, marca se estava dentro ou fora da dieta, e acompanha seu progresso ao longo do tempo. Sem julgamentos, só dados.
 
